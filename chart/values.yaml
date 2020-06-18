@@ -59,6 +59,7 @@ tolerations: []
 affinity: {}
 
 podAnnotations: {}
+podLabels: {}
 
 mountProtoDesc: 
   enabled: false
